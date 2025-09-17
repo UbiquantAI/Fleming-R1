@@ -1,7 +1,7 @@
 # Fleming-R1: Toward Expert-Level Medical Reasoning via Reinforcement Learning
 
 <p align="center">
-          🤗 <a href="https://huggingface.co/UbiquantAI/Fleming-R1-7B">Fleming-R1-7B</a> | 🤗 <a href="https://huggingface.co/UbiquantAI/Fleming-R1-32B">Fleming-R1-32B</a> | 📑 <a href="https://arxiv.org/abs/2505.09388">Paper</a> | <b>中文</b> | <a href="https://github.com/UbiquantAI/Fleming-R1/blob/main/README.md">English</a>
+          🤗 <a href="https://huggingface.co/UbiquantAI/Fleming-R1-7B">Fleming-R1-7B</a> | 🤗 <a href="https://huggingface.co/UbiquantAI/Fleming-R1-32B">Fleming-R1-32B</a> | 📑 <a href="https://github.com/UbiquantAI/Fleming-R1/blob/main/paper/Fleming-R1.pdf">Paper</a> | <b>中文</b> | <a href="https://github.com/UbiquantAI/Fleming-R1/blob/main/README.md">English</a>
 <p>
 
 ## 📖 模型简介
