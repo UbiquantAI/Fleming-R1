@@ -14,6 +14,9 @@ Fleming-R1 is a reasoning model for medical scenarios that can perform step-by-s
 * **Chain-of-thought cold start** Uses high-quality reasoning traces distilled from teacher models to guide the model in learning basic reasoning patterns;
 * **Two-stage reinforcement learning** Employs adaptive hard-negative mining to strengthen the model’s reasoning when facing difficult problems.
 
+## 📰 NEWS
+* We released the COT data based on knowledge graph used during model training, along with the corresponding subgraphs. This includes a total of 35,256 COT entries in both Chinese and English, with 17,512 in Chinese and 17,844 in English, as well as 20,000 subgraphs, in the ./data folder.
+
 ## 📦 Releases
 
 - **Fleming-R1-7B** —— Trained on Qwen2.5-7B  
